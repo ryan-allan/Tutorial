@@ -36,17 +36,17 @@
 
 </ul>
 
-	<h3><a id="Messaging">Messaging</a></h3>
+<h3><a id="Messaging">Messaging</a></h3>
 
-	<p>The Messaging Tutorial will begin with the </p>
+<p>The Messaging Tutorial will begin with the </p>
 	
 
-	<h3><a id="Mobile Web">Mobile Web</a></h3>
+<h3><a id="Mobile Web">Mobile Web</a></h3>
 
-	<h3><a id="Email">Email</a></h3>
+<h3><a id="Email">Email</a></h3>
 
-	<h3><a id="Commerce">Commerce</a></h3>
+<h3><a id="Commerce">Commerce</a></h3>
 
-	<h3><a id="Databases">Databases</a></h3>
+<h3><a id="Databases">Databases</a></h3>
 
-	<h3><a id="Passes">Passes</a></h3>
+<h3><a id="Passes">Passes</a></h3>
