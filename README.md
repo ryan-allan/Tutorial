@@ -51,6 +51,21 @@
 <li>A brief explanation of widgets and bulk imports</li>
 <li>Save the MMS and go to MMS templates</li>
 </ol>
+
+MMS Templates
+
+<ol>
+<li>Briefly explain each option for an MMS Template</li>
+<li>Navigate to SMS/MMS Campaigns</li>
+</ol>
+
+SMS/MMS Campaigns
+
+<ol>
+<li>Click create a campaign</li>
+<li>Fill out everything and mouseover the tooltips of each item for a few seconds</li>
+<li>
+
 	
 
 <h3><a id="Mobile Web">Mobile Web</a></h3>
