@@ -21,7 +21,7 @@
 
 </ul>
 
-<div align="center"><h1>Sections</h1></div>
+<div align="center"><h1>Videos</h1></div>
 
 </BR>
 
