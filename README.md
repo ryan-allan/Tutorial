@@ -65,9 +65,15 @@
 <li>Click Create A Campaign</li>
 <li>Fill out everything and mouse over the tooltips of each item for a few seconds</li>
 <li>Click Create Campaign and put in the keyword tutorial, briefly explain and schedule the recently created MMS to be a part of the campaign</li>
+<li>Click the SMS tab on the scheduler and add an SMS to the campaign as well</li>
 <li>Add a dummy number to the campaign</li>
-
+<li>Go back to the main SMS/MMS Campaigns Tab</li>
+<li>Mouse over each of the tooltips on the recently created campaign</li>
 </ol>
+
+MMS Inbox
+
+
 	
 
 <h3><a id="Mobile Web">Mobile Web</a></h3>
