@@ -38,7 +38,12 @@
 
 <h3><a id="Messaging">Messaging</a></h3>
 
-<p>The Messaging Tutorial will begin with the </p>
+<strong>MMS Composer</strong>
+<ol>
+<li>Upload an object of each type.</li>
+<li>Delete and re-upload an object</li>
+<li>Show how to use the cropping mechanisms for each object</li>
+</ol>
 	
 
 <h3><a id="Mobile Web">Mobile Web</a></h3>
