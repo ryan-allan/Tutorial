@@ -36,7 +36,7 @@
 
 </ul>
 
-<h3><a id="Messaging">Messaging</a></h3>
+<h3>(#Messaging)Messaging</h3>
 
 <strong>MMS Composer</strong>
 <ol>
