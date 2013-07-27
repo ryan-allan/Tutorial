@@ -52,20 +52,22 @@
 <li>Save the MMS and go to MMS templates</li>
 </ol>
 
-MMS Templates
+<strong>MMS Templates</strong>
 
 <ol>
 <li>Briefly explain each option for an MMS Template</li>
 <li>Navigate to SMS/MMS Campaigns</li>
 </ol>
 
-SMS/MMS Campaigns
+<strong>SMS/MMS Campaigns</strong>
 
 <ol>
-<li>Click create a campaign</li>
-<li>Fill out everything and mouseover the tooltips of each item for a few seconds</li>
-<li>
+<li>Click Create A Campaign</li>
+<li>Fill out everything and mouse over the tooltips of each item for a few seconds</li>
+<li>Click Create Campaign and put in the keyword tutorial, briefly explain and schedule the recently created MMS to be a part of the campaign</li>
+<li>Add a dummy number to the campaign</li>
 
+</ol>
 	
 
 <h3><a id="Mobile Web">Mobile Web</a></h3>
