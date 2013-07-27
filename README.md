@@ -40,9 +40,16 @@
 
 <strong>MMS Composer</strong>
 <ol>
+<li>Briefly explain what an MMS is</li>
 <li>Upload an object of each type.</li>
 <li>Delete and re-upload an object</li>
 <li>Show how to use the cropping mechanisms for each object</li>
+<li>Zoom in and out and then delete an object from the work space</li>
+<li>Change the slide text </li>
+<li>Make a slide for each object</li>
+<li>Change the duration of 2 slides</li>
+<li>A brief explanation of widgets and bulk imports</li>
+<li>Save the MMS and go to MMS templates</li>
 </ol>
 	
 
