@@ -33,7 +33,7 @@
 <strong>Surveys & Quizzes</strong>
 
 <ol>
-<li>Create 1 Quiz and 1 Survey</li>
+<li>Create 1 Quiz and 1 Survey using different page links</li>
 <li>Go to the Mobile Videos tab</li>
 </ol>
 
