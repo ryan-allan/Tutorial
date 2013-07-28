@@ -21,7 +21,7 @@
 <ol>
 <li>Briefly explain each link and mouseover each tooltip</li>
 <li>Add and remove an example Email from the Audience List</li>
-<li>click on the Email History tab</li
+<li>click on the Email History tab</li>
 </ol>
 
 <strong>Email History</strong>
