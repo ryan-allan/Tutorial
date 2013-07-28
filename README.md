@@ -20,7 +20,7 @@
 	<li>The overall tutorial structure will have each video based on each major tab of the skycore platform.</li></BR>
 	<li>Each sub tab of it's respective major tab will be a section in each part of the video and a link to each section of the video that isn't currently being shown will be displayed.</li></BR>
 	<li>The example user will use all of the given tabs and their features to create an example project.</li></BR>
-	<li>If certain features are mutually exclusive, 1 feature will be chosen and the other explicitly explained.</li></BR>
+	<li>If certain features are mutually exclusive, 1 feature will be chosen and the other/s explicitly explained.</li></BR>
 	<li>The filling out of forms in these tutorials should be done minimally, but with explanations of key features</li>
 	<li>All tool tip mouseovers should be held for 3 seconds</li>
 </ul>
