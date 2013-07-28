@@ -22,6 +22,7 @@
 	<li>The example user will use all of the given tabs and their features to create an example project.</li></BR>
 	<li>If certain features are mutually exclusive, 1 feature will be chosen and the other/s explicitly explained.</li></BR>
 	<li>The filling out of forms in these tutorials should be done minimally, but with explanations of key features</li>
+	<li>All subcomponents for the example MMS or Landing Pages, (including but not limited to: Barcode Templates, Pass Templates, and Quizzes/Surveys) should be made beforehand.<li>
 	<li>All tool tip mouseovers should be held for 3 seconds</li>
 </ul>
 
