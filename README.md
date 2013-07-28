@@ -21,7 +21,7 @@
 
 </ul>
 
-<div align="center"><h1>Video Architecture</h1></div>
+<div align="center"><h1>Video Framework</h1></div>
 
 </BR>
 
