@@ -31,14 +31,21 @@
 <li>Add a dummy number to the campaign</li>
 <li>Go back to the main SMS/MMS Campaigns Tab</li>
 <li>Mouse over each of the tooltips on the recently created campaign</li>
-<li>Click on the MMS Inbox Tab Next</li>
+<li>Click on the MMS Inbox tab</li>
 </ol>
 
 <strong>MMS Inbox</strong>
 
 <ol>
 <li>Click Create MMS Inbox Campaign</li>
-<li>Enter in the keyword named tutorials</li>
+<li>Enter in the keyword named "tutorials"</li>
 <li>Fill out the form explaining what each option means and mousing over tooltips when applicable</li>
 <li>Click Submit</li>
+<li>Mouse over each tooltip</li>
+<li>Briefly explain the purpose of the Email Digest options and settings</li>
+<li>Click on the Broadcasts tab</li>
 </ol>
+
+<strong>Broadcasts</strong>
+
+
