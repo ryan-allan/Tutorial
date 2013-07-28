@@ -23,8 +23,8 @@
 	<li>If certain features are mutually exclusive, 1 feature will be chosen and the other/s explicitly explained.</li></BR>
 	<li>The filling out of forms in these tutorials should be done minimally, but with explanations of key features</li>
 	<li>All subcomponents for the example MMS or Landing Pages, (including but not limited to: Barcode Templates, Pass Templates, and Quizzes/Surveys) should be made beforehand.<li>
-	<li>All URL link features should be filled in as example.com
-	<li>All tool tip mouseovers should be held for 3 seconds</li>
+	<li>All URL link features should be filled in as example.com</li>
+	<li>All tool tip mouseovers should be done before filling out it's respective field and held for 3 seconds</li>
 </ul>
 
 <div align="center"><h1>Video Framework</h1></div>
