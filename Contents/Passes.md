@@ -9,9 +9,9 @@
 <li>Go through each feature fill it out, explain what it does and add it to the preview</li>
 <li>When you get to the Advanced tab explain the difference between Fixed Template Data and uploading a CSV file and that if they choose the CSV file they must use the Import Pass Data Tab</li>
 <li>Hit Save Pass Template and click on the Pass Template tab</li>
-</ol
+</ol>
 
-<strong>Pass Template</strong
+<strong>Pass Template</strong>
 
 <ol>
 <li>Briefly explain what a Pass Template is and show the preview on the Temple you've just created</li>
