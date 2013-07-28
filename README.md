@@ -4,8 +4,9 @@
 
 <h3>Tools</h3>
 
-http://www.screencast-o-matic.com/
-<p>Screencast-O-Matic has everything needed and will be used for this project.</p>
+<ul>
+	<li>[http://www.screencast-o-matic.com/]Screencast-O-Matic has everything needed and will be used for this project.</li>
+</ul>
 
 <h3>Terms</h3>
 
