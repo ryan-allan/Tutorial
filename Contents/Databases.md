@@ -4,7 +4,7 @@
 
 <ol>
 <li>click on Create Barcode Database</li>
-<li>Briefly explain what a barcode database is for</li>
+<li>Briefly explain the purpose of a barcode database</li>
 <li>Fill out the form and explain the Redemption System when you get to it</li>
 <li>click Continue to template settings</li>
 <li>Fill out the form and show what each feature does in the preview</li>
