@@ -68,7 +68,7 @@
 <strong>Messaging History</strong>
 
 <ol>
-<li>Briefly explain and clarify how what this is and how to use it</li>
+<li>Briefly explain what this is and how to use it</li>
 </ol>
 
 
