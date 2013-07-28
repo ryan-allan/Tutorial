@@ -4,11 +4,14 @@
 
 <h3>Tools</h3>
 
+http://www.screencast-o-matic.com/
 <p>Screencast-O-Matic has everything needed and will be used for this project.</p>
 
 <h3>Terms</h3>
-	
-<p>For this document the term "example user" will be used to describe the individual using the skycore platform within the tutorial video.</p>
+
+<ul>
+	<li>For this document the term "example user" will be used to describe the individual using the skycore platform within the tutorial video.</li>
+</ul>
 
 <h3>Design</h3>
 
