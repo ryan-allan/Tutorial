@@ -27,12 +27,12 @@
 
 <div align="center">
 
-	<a href="#Messaging">Messaging</a></li>
-	<a href="#Mobile Web">Mobile Web</a></li>
-	<a href="#Email">Email</a></li>
-	<a href="#Commerce">Commerce</a></li>
-	<a href="#Databases">Databases</a></li>
-	<a href="#Passes">Passes</a></li>
+	<a href="#Messaging">Messaging</a></li>   <br/>
+	<a href="#Mobile Web">Mobile Web</a></li> <br/>
+	<a href="#Email">Email</a></li>           <br/>
+	<a href="#Commerce">Commerce</a></li>     <br/>
+	<a href="#Databases">Databases</a></li>   <br/>
+	<a href="#Passes">Passes</a></li>         <br/>
 
 </div>
 
