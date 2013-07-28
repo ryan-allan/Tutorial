@@ -4,7 +4,7 @@
 
 <h3>Tools</h3>
 
-<p>Screencast-O-Matic has everything needed for this project.</p>
+<p>Screencast-O-Matic has everything needed and will be used for this project.</p>
 
 <h3>Terms</h3>
 	
