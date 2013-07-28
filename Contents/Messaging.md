@@ -10,7 +10,7 @@
 <li>Change the slide text </li>
 <li>Make a slide for each object</li>
 <li>Change the duration of 2 slides</li>
-<li>A brief explanation of widgets and bulk imports</li>
+<li>Give a brief explanation of widgets and bulk imports</li>
 <li>Save the MMS and go to MMS templates</li>
 </ol>
 
