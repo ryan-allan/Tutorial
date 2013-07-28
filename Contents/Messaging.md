@@ -48,4 +48,25 @@
 
 <strong>Broadcasts</strong>
 
+<ol>
+<li>Briefly explain what broadcast reports are</li>
+<li>Explain how the filter feature works</li>
+<li>Click on the report link and show how to download a CSV report</li>
+<li>Click on the Manage Keywords tab</li>
+</ol>
+
+<strong>Manage Keywords</strong>
+
+<ol>
+<li>Mouse over tooltips</li>
+<li>Delete a keyword</li>
+<li>Click on the Messaging History tab</li>
+</ol>
+
+<strong>Messaging History</strong>
+
+<ol>
+<li>Briefly explain and clarify how what this is and how to use it</li>
+</ol>
+
 
