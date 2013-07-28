@@ -47,7 +47,7 @@
 <strong>Mobile Web History</strong>
 
 <ol>
-<li>Briefly explain what his page does and how it can be useful</li>
+<li>Briefly explain what this page does and how it can be useful</li>
 </ol>
 
 
