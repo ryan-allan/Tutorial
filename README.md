@@ -71,7 +71,7 @@
 <li>Mouse over each of the tooltips on the recently created campaign</li>
 </ol>
 
-MMS Inbox
+<strong>MMS Inbox</strong>
 
 <ol>
 <li></li>
