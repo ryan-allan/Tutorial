@@ -19,7 +19,9 @@
 <strong>MMS Templates</strong>
 
 <ol>
-<li>Briefly explain each option for an MMS Template</li>
+<li>Use the Edit, Preview, Settings, Send Test and Replicate features</li>
+<li>Briefly explain each option and its uses as you go</li>
+
 <b> more...</b>
 </ol>
 
