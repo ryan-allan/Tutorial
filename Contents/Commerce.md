@@ -2,4 +2,4 @@
 
 <h2>Commerce</h2>
 
-<strong>Under Construction</strong>
+<strong>[Under Construction]</strong>
