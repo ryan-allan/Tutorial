@@ -62,6 +62,9 @@
 <li>Go to the auto-responder tab, mouseover the tool-tip and click the Add An Auto-Responder link.</li>
 <li>Go to the SMS tab change the response time to 1, and type in "This is a tutorial auto-response.", then save.</li>
 <li>Click edit on the SMS you just made and add "Tutorial Edit" to the text, change the time to 0, change the tab from opt-in to SMS Response, and save changes.</li>
+<li>Move to the SMS Keywords, add a keyword, edit it, then save it</li>
+<li>Move to the SMS Inbox and explain it's purpose and the Generate CSV Export Button</li>
+
 
 </ol>
 
