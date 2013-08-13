@@ -34,14 +34,22 @@
 <li>Click SMS/MMS Campaigns</li>
 <li>Click Create A Campaign</li>
 <li>Fill out the form and mouse over the tooltips of each one for a few seconds, be sure your Double Opt-in and Send Opt-in Confirmations are not conflicting.</li>
-<li>Click Create Campaign and put in the keyword "tutorial", briefly explain and schedule the recently created MMS to be a part of the campaign</li>
-<li>Click the MMS tab on the scheduler and add the MMS campaign that was created in the first step</li>
-<li>Add a dummy number to the campaign</li>
-<li>Add a dummy keyword to the campaign</li>
-<li>Go back to the main SMS/MMS Campaigns Tab</li>
-<li>Open the Message Flow tab and briefly explain what this is</li>
+<li>Click Create Campaign and put in the keyword "tutorial", briefly explain and schedule the recently created MMS to be a part of the campaign.</li>
+<li>Click the MMS tab on the scheduler and add the MMS campaign that was created in the first step.</li>
+<li>Add a dummy number to the campaign.</li>
+<li>Add a dummy keyword to the campaign.</li>
+<li>Go back to the main SMS/MMS Campaigns Tab.</li>
+<li>Open the Message Flow tab and briefly explain what this is.</li>
 <li>For each Edit option on the displays, click Edit and add "This is some tutorial editing" then click Update, make sure you scroll down to check for any that are off-screen on the displays.</li>
-<li>
+<li>Open Audience Manager and import a list of at least 10 numbers.</li>
+<li>Use the search feature to locate a number and unsubscribe it using the opt-out button.</li>
+<li>Go down to the list and use the Opt-out button on another number.</li>
+<li>Open the Unsubscribed tab and Resubscribe one of the numbers and remove the other.</li>
+<li>Go back to the subscribe tab and remove the number you just added back</li>
+<li>Export the list of numbers</li>
+<li>Opt out all of the numbers using the Opt-out All Subscribed button</li>
+<li>Go to the Unsubscribed tab and Resubscribe all of the numbers using the Resubscribe All button</li>
+<li>Remove all of the numbners using the Remove All button</li>
 
 <li>Go into the campaign and review each tab, settings, flow, autopresonder, scheduling, etc</li> 
 
