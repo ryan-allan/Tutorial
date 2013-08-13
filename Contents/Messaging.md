@@ -39,6 +39,10 @@
 <li>Add a dummy number to the campaign</li>
 <li>Add a dummy keyword to the campaign</li>
 <li>Go back to the main SMS/MMS Campaigns Tab</li>
+<li>Open the Message Flow tab and briefly explain what this is</li>
+<li>For each Edit option on the displays, click Edit and add "This is some tutorial editing" then click Update, make sure you scroll down to check for any that are off-screen on the displays.</li>
+<li>
+
 <li>Go into the campaign and review each tab, settings, flow, autopresonder, scheduling, etc</li> 
 
 
