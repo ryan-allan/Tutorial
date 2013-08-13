@@ -21,8 +21,15 @@
 <ol>
 <li>Use the Edit, Preview, Settings, Send Test and Replicate features</li>
 <li>Briefly explain each option and its uses as you go</li>
+<li>Use the preview feature, let the preview run to completion, and then close it.</li>
+<li>Use the edit feature to add an extra slide with an image and a sound.</li>
+<li>Use the preview feature again, let the preview run to completion and then close it.</li>
+<li>Open the Settings and mouse over each of the tooltips, check the disable ater download option and close the settings.</li>
+<li>Open the Send Test option and mouse over the tooltips, enter in a test number and hit send.</li>
+<li>Go to Messaging History, enter in the date and view the sent message.</li>
+<li>Use the Replicate feature, use the edit feature of the replicated MMS and remove a slide, then click Save MMS, change the name and save it.</li>
 
-<b> more...</b>
+
 </ol>
 
 <strong>SMS/MMS Campaigns</strong>
