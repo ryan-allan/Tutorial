@@ -45,17 +45,23 @@
 <li>Use the search feature to locate a number and unsubscribe it using the opt-out button.</li>
 <li>Go down to the list and use the Opt-out button on another number.</li>
 <li>Open the Unsubscribed tab and Resubscribe one of the numbers and remove the other.</li>
-<li>Go back to the subscribe tab and remove the number you just added back</li>
-<li>Export the list of numbers</li>
-<li>Opt out all of the numbers using the Opt-out All Subscribed button</li>
-<li>Go to the Unsubscribed tab and Resubscribe all of the numbers using the Resubscribe All button</li>
-<li>Remove all of the numbners using the Remove All button</li>
-
-<li>Go into the campaign and review each tab, settings, flow, autopresonder, scheduling, etc</li> 
-
-
-
-<b> more....</b>
+<li>Go back to the subscribe tab and remove the number you just added back.</li>
+<li>Export the list of numbers.</li>
+<li>Opt out all of the numbers using the Opt-out All Subscribed button.</li>
+<li>Go to the Unsubscribed tab and Resubscribe all of the numbers using the Resubscribe All butto.n</li>
+<li>Remove all of the numbners using the Remove All button.</li>
+<li>Import all of the numbers back to the campaign.</li>
+<li>Go to the Message Scheduling tab.</li>
+<li>Click on a day and then open the SMS tab.</li>
+<li>Type in the alert text "tutorial alert" and change the time the message will be sent.</li>
+<li>Explain the timezone feature but do not use it as it shows sensitive information.</li>
+<li>Mouse over the tool-tips for the 2 sending mode options and choose Send on subscriber's local time and click Submit.</li>
+<li>Go through the same steps, while adding a DDM, to schedule an MMS for the same day.</li>
+<li>Go to the Stats and Report links for the SMS you scheduled and explain each page.</li>
+<li>Delete the SMS you scheduled.</li>
+<li>Go to the auto-responder tab, mouseover the tool-tip and click the Add An Auto-Responder link.</li>
+<li>Go to the SMS tab change the response time to 1, and type in "This is a tutorial auto-response.", then save.</li>
+<li>Click edit on the SMS you just made and add "Tutorial Edit" to the text, change the time to 0, change the tab from opt-in to SMS Response, and save changes.</li>
 
 </ol>
 
