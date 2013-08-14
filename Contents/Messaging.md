@@ -84,8 +84,10 @@
 <ol>
 <li>Click on the MMS Inbox tab</li>
 <li>Talk about the components of an MMS Inbox campaign based on one that is already created</li>
+
 <b> more.... moderation panel</b>
 <b> more.... zip and Ftp</b>
+
 <li>Click Create MMS Inbox Campaign</li>
 <li>Enter in the keyword named "tutorials"</li>
 <li>Fill out the form explaining what each option means and mousing over tooltips when applicable</li>
