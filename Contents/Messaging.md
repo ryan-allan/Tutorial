@@ -84,17 +84,14 @@
 <ol>
 <li>Click on the MMS Inbox tab</li>
 <li>Talk about the components of an MMS Inbox campaign based on one that is already created</li>
-
-<b> more.... moderation panel</b>
-<b> more.... zip and Ftp</b>
-
+<li>Click on the Pending link in the moderation panel and go through each tab of the panel explaining what each one is for</li>
+<li>Click on Export and show the settings for zip exports</li>
+<li>Go back to the MMS Inbox and click on the FTP Log and explain what this feature does</li>
 <li>Click Create MMS Inbox Campaign</li>
 <li>Enter in the keyword named "tutorials"</li>
 <li>Fill out the form explaining what each option means and mousing over tooltips when applicable</li>
 <li>Click Submit</li>
 <li>Mouse over each tooltip</li>
-<strike><li>Briefly explain the purpose of the Email Digest options and settings</li></strike>
-
 </ol>
 
 <strong>Manage Keywords</strong>
