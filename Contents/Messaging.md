@@ -71,12 +71,12 @@
 <strong>Broadcasts</strong>
 
 <ol>
-<li>Click on the Broadcasts tab</li>
-<li>Briefly explain what broadcast reports are</li>
-<li>Explain how the filter feature works</li>
-<li>Click on the report link and show how to download a CSV report</li>
-<b> more....stats?</b>
-
+<li>Click on the Broadcasts tab.</li>
+<li>Briefly explain what broadcast reports are.</li>
+<li>Explain how the filter feature works.</li>
+<li>Click on the report link and show how to download a CSV report.</li>
+<li>Click on the stats link to show and explain the stats page.</li>
+<li>Show how to delete an entry.</li>
 </ol>
 
 <strong>MMS Inbox</strong>
